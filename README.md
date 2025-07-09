@@ -14,7 +14,7 @@ To analyze customer purchase behavior, group similar customers into clusters, an
 
 - Total records: **1,654 customers**
 - Features: 24 columns including demographics, spending habits, campaign responses, and product purchases.
-- Data source: `marketing_clean.csv`
+- Data source: Kaggle
 
 ---
 
@@ -84,7 +84,3 @@ Fresh Graduate in Statistics
 [LinkedIn](https://linkedin.com/in/yunieffendy)
 
 ---
-
-## 📌 Note
-
-This project is part of a marketing analysis initiative and was conducted purely for educational purposes using sample data. No real customer data is disclosed.
