@@ -42,7 +42,7 @@ To analyze customer purchase behavior, group similar customers into clusters, an
 
 ### 4. PCA for 2D Visualization
 
-![PCA Clustering](images/pca_clustering.png)  
+![PCA Plot](Screenshot%202025-07-09%20134556.png) 
 *PCA plot showing 3 distinct customer clusters*
 
 ### 5. Cluster Profiling
@@ -64,7 +64,7 @@ To analyze customer purchase behavior, group similar customers into clusters, an
 ![Wine](Screenshot%202025-07-04%20194841.png)
 ![Meat](Screenshot%202025-07-04%20195310.png)
 ![Sweet](Screenshot%202025-07-04%20201615.png)
-![Count](Screenshot%202025-07-09%20134556.png)
+
 
 
 
