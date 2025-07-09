@@ -60,10 +60,10 @@ To analyze customer purchase behavior, group similar customers into clusters, an
 
 ## 📊 Visualizations
 ![Income](Rata%20Rata%20Income%20Cluster.png)
-![Distribution](Screenshot%202025-07-04%20193128.png)
-![Wine](Screenshot%202025-07-04%20194841.png)
-![Meat](Screenshot%202025-07-04%20195310.png)
-![Sweet](Screenshot%202025-07-04%20201615.png)
+![Pengeluaran](Screenshot%202025-07-04%20193128.png)
+![Diskon](Screenshot%202025-07-04%20194841.png)
+![Catalog](Screenshot%202025-07-04%20195310.png)
+![Website](Screenshot%202025-07-04%20201615.png)
 
 
 
@@ -74,14 +74,6 @@ To analyze customer purchase behavior, group similar customers into clusters, an
 - **Cluster 0**: High-income, high-spending customers → Ideal for premium targeting and loyalty programs.
 - **Cluster 1**: Mid-tier customers → Opportunity for personalized discounts or bundling offers.
 - **Cluster 2**: Low-income, low-engagement → Target with awareness campaigns or entry-level promotions.
-
----
-
-## 📁 Output Files
-
-- `clustered_customers.csv`: Final dataset with cluster labels
-- Visualizations: Stored in `/images/`
-- `customer_clustering_kmeans.sql`: Optional SQL version (if applicable)
 
 ---
 
