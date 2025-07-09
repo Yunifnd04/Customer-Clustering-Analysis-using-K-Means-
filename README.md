@@ -45,13 +45,11 @@ To analyze customer purchase behavior, group similar customers into clusters, an
 ![PCA Plot](Screenshot%202025-07-09%20134556.png) 
 
 
-### 5. Cluster Profiling
-
-| Cluster | Income (mean) | Wine Spending | Meat Spending | Gold Spending | Total Customers |
-|---------|----------------|----------------|----------------|----------------|------------------|
-| 0       | High           | High           | High           | High           | ~600             |
-| 1       | Medium         | Medium         | Medium         | Medium         | ~500             |
-| 2       | Low            | Low            | Low            | Low            | ~500             |
+| Cluster | Key Characteristics                                                           |
+|---------|-------------------------------------------------------------------------------|
+| 0       | High income and high spending, loyal to marketing campaigns                   |
+| 1       | Low income, passive, rarely responds to promotions                            |
+| 2       | Medium income and spending, has potential to increase engagement and loyalty  |
 
 ---
 
@@ -71,9 +69,17 @@ To analyze customer purchase behavior, group similar customers into clusters, an
 
 ## 🧠 Business Implications
 
-- **Cluster 0**: High-income, high-spending customers → Ideal for premium targeting and loyalty programs.
-- **Cluster 1**: Mid-tier customers → Opportunity for personalized discounts or bundling offers.
-- **Cluster 2**: Low-income, low-engagement → Target with awareness campaigns or entry-level promotions.
+- **Cluster 0**  
+  Customers with high income and high spending, highly loyal to campaigns.  
+  → Ideal for exclusive loyalty programs, premium bundling, and high-value offers.
+
+- **Cluster 1**  
+  Customers with low income, passive behavior, and rarely engage with promotions.  
+  → Requires educational marketing, discount-based campaigns, and reactivation strategies.
+
+- **Cluster 2**  
+  Customers with moderate income and spending; not yet highly loyal but with strong potential.  
+  → Suitable for engagement-boosting efforts such as personalized offers, referrals, or targeted incentives.
 
 ---
 
