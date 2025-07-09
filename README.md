@@ -55,56 +55,23 @@ To analyze customer purchase behavior, group similar customers into clusters, an
 
 ---
 
-## 📈 Visualization & Interpretation
+## 📈 Visualization 
 
-### 🧾 Distribution of Income per Cluster
 
-![Income Distribution](images/income_boxplot.png)
+## 📊 Visualizations
 
-- Cluster 0 has significantly higher income.
-- Cluster 2 has the lowest.
+![Average Income](images/Rata%20Rata%20Income%20Cluster.png)
 
----
+![Customer Distribution](images/Screenshot%202025-07-04%20193128.png)
 
-### 🍷 Wine Spending per Cluster
+![Wine Spending](images/Screenshot%202025-07-04%20194841.png)
 
-![Wine Distribution](images/mntwines_boxplot.png)
+![Meat Spending](images/Screenshot%202025-07-04%20195310.png)
 
-- High-spending wine customers are concentrated in Cluster 0.
+![Sweet Spending](images/Screenshot%202025-07-04%20201615.png)
 
----
+![Cluster Count](images/Screenshot%202025-07-09%20134556.png)
 
-### 🍖 Meat Products Spending
-
-![Meat Distribution](images/meat_boxplot.png)
-
-- Consistently high in Cluster 0, low in Cluster 2.
-
----
-
-### 🍬 Sweet Products Spending
-
-![Sweet Distribution](images/sweet_boxplot.png)
-
-- Customers in Cluster 2 tend to buy fewer sweet products.
-
----
-
-### 🧈 Gold Products Spending
-
-![Gold Distribution](images/gold_boxplot.png)
-
-- Cluster 0 dominates high-value gold product purchases.
-
----
-
-### 👥 Cluster Sizes
-
-![Cluster Count](images/cluster_count.png)
-
-- Clusters are fairly balanced, which supports reliable segmentation.
-
----
 
 ## 🧠 Business Implications
 
