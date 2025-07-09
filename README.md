@@ -59,12 +59,12 @@ To analyze customer purchase behavior, group similar customers into clusters, an
 
 
 ## 📊 Visualizations
-![Income](images/Rata%20Rata%20Income%20Cluster.png)
-![Distribution](images/Screenshot%202025-07-04%20193128.PNG)
-![Wine](images/Screenshot%202025-07-04%20194841.PNG)
-![Meat](images/Screenshot%202025-07-04%20195310.PNG)
-![Sweet](images/Screenshot%202025-07-04%20201615.PNG)
-![Count](images/Screenshot%202025-07-09%20134556.PNG)
+![Income](Rata%20Rata%20Income%20Cluster.png)
+![Distribution](Screenshot%202025-07-04%20193128.png)
+![Wine](Screenshot%202025-07-04%20194841.png)
+![Meat](Screenshot%202025-07-04%20195310.png)
+![Sweet](Screenshot%202025-07-04%20201615.png)
+![Count](Screenshot%202025-07-09%20134556.png)
 
 
 
