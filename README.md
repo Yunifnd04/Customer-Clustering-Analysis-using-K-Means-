@@ -1,4 +1,3 @@
-# Customer-Clustering-Analysis-using-K-Means-
 # 🛍️ Customer Clustering Analysis using K-Means
 
 This project aims to segment customers based on their spending behavior using K-Means clustering. The results help identify distinct customer profiles to support targeted marketing campaigns and personalized promotions.
