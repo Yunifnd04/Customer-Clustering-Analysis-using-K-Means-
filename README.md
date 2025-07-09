@@ -81,8 +81,7 @@ To analyze customer purchase behavior, group similar customers into clusters, an
 
 **Yuni Sabrina Effendy**  
 Fresh Graduate in Statistics  
-Specialized in Data Analysis, Customer Segmentation, and Business Intelligence  
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+[LinkedIn](https://linkedin.com/in/yunieffendy)
 
 ---
 
